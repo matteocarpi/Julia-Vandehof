@@ -31,7 +31,7 @@ description: |-
 
   the Journey: a first work-in-progress - version that was shared with an audience in India as part of the Whilst Walking Touring Theater Festival 2019.  In February and March 2020 they received two working opportunities: in Berlin and Faber Residency Girona. Covid-19.
 
-  Happy to share the work with an audience in Barcelona on 5/6/21.
+   5/6/21, Barcelona @Perpetracions Festival [http://perpetracions.ccsantmarti.net/ed21/](http://perpetracions.ccsantmarti.net/ed21/ "http://perpetracions.ccsantmarti.net/ed21/")
 
   Follow us on Instagram @kein_komplot
 gallery: []
