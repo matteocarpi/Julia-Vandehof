@@ -31,7 +31,7 @@ description: |-
 
   **15.8.2021, Kunstwerkstatt Tulln**
 
-  Künstler*innen mit Bezug zum Tullnerfeld entwickeln verschiedene künstlerische Positionen und präsentieren diese in Form einer performativen Ausstellung vor einem Publikum.
+  Von 12. – 15.8. 21 entwickeln Künstler*innen mit Bezug zum Tullnerfeld in einem Research-Workshop verschiedene künstlerische Positionen und präsentieren diese in Form einer performativen Ausstellung vor einem Publikum.
 
   Weitere Informationen, Anmeldung zum Workshop und Reservierungen bei Julia Vandehof unter 0699 112 806 84 oder [lucid_dreams@gmx.at](mailto:lucid_dreams@gmx.at).
 
