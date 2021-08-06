@@ -22,11 +22,11 @@ bio: |
 
   Julia ist in Österreich geboren und aufgewachsen. In Wien absolviert sie eine Ausbildung zur Schauspielerin und in den Grundlagen des Filmemachens. Sie schließt ihr Studium der Theater-, Film- und Medienwissenschaften mit Schwerpunkt Theaterpädagogik ab. Nachdem sie in diesen Bereichen gearbeitet und ihr erstes eigenes Stück ‚Die Löwen sind den Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre and Performance“ (arthaus / LISPA Berlin und Rose Bruford College London).
 upcoming_performances:
-- title: 'OH Österreich! OH Zwentendorf! '
-  date: 2021-07-01 10:00:00 +0000
-  link: https://juliavandehof.com/oh-osterreich/
-  venue: Donauhof Zwentendorf
-  venue_link: https://www.zwentendorf.at/Donauhof_-_Restaurant
+- title: OH Österreich! Performative Ausstellung
+  date: 2021-08-15 18:00:00 +0000
+  link: http://www.kunstwerkstatt.at/wp/?p=10692
+  venue: Kunstwerkstatt Tulln
+  venue_link: http://www.kunstwerkstatt.at/wp/
 - title: Take Care! A rabbit Hole!
   date: 2021-07-02 21:00:00 +0000
   link: https://juliavandehof.com/take-care-a-rabbit-hole/
