@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _workshop
+  label: Workshop
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
   path: pages
   label: Pages
   create: none
