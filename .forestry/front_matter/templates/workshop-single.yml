@@ -1,0 +1,100 @@
+---
+label: Workshop Single
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: post
+- type: text
+  name: permalink
+  label: Permalink
+  hidden: true
+  default: "/:title/"
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+- type: select
+  name: categories
+  hidden: true
+  config:
+    source:
+      type: simple
+      section: jekyll-posts
+    required: true
+    options:
+    - workshop
+  label: Category
+  description: Select wether this is a Project or a Media document
+  default: workshop
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: sub_title
+  label: Subtitle
+- type: textarea
+  name: credits
+  label: Credits
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: preview_picture
+  label: Preview Picture
+  description: This image will show in the homepage and on the Projects page.
+- type: boolean
+  name: current
+  label: Current
+  description: Turn on if this project is part of "Current Work"
+- type: boolean
+  name: only_current
+  label: Only Current
+  description: Turn on if you don't have a full page about this project
+- type: image_gallery
+  name: main_pictures
+  label: Main Pictures
+  description: The big pictures at the top of the post
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: image_gallery
+  name: gallery
+  label: gallery
+  description: More pictures from the project
+- type: text
+  name: youtube_link
+  label: YouTube link
+- type: boolean
+  name: press
+  label: Press
+  description: Are there press images?
+- type: image_gallery
+  name: press_pictures
+  label: Press Pictures
+  description: ''
+- type: textarea
+  name: press_text
+  label: Press Text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- name: partners
+  type: image_gallery
+  config: {}
+  label: Partners
+pages:
+- _posts/2020-09-04-heroines.md
+- _posts/2021-05-29-oh-osterreich.md
+- _posts/2021-06-06-take-care-a-rabbit-hole.md
+- pages/lucid-dreams-theater.md
