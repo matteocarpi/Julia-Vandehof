@@ -20,7 +20,7 @@ credits: |-
 
   [https://www.stadtdesmiteinanders.at/ein-abwechslungsreicher-sommer-zuhause/](https://www.stadtdesmiteinanders.at/ein-abwechslungsreicher-sommer-zuhause/ "https://www.stadtdesmiteinanders.at/ein-abwechslungsreicher-sommer-zuhause/")
 preview_picture: "/uploads/hero-boy.jpg"
-current: true
+current: false
 only_current: false
 main_pictures:
 - "/uploads/hero-boy.jpg"
