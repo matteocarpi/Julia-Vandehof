@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2021-06-06 22:00:00 +0000
+date: 2021-06-06T22:00:00.000+00:00
 title: Take Care! A rabbit hole!
 sub_title: Performance - Sharing der künstlerischen Recherche
 credits: "mit und von Julia Vandehof und Ainhoa Hevia Uria , Technik: Leroy Werner,
@@ -49,7 +49,12 @@ description: "\"Wer mit Ungeheuern kämpft, mag zusehn, daß er nicht dabei zum 
   his own shadows. In the case of this performance: the female protagonists. For it
   is the myths and stories of Innana, Alice and Persephone that were used as sources
   of inspiration for the playful exploration of that ineffable stage."
-gallery: []
+gallery:
+- "/uploads/dsc_0380.jpg"
+- "/uploads/dsc_0410.jpg"
+- "/uploads/dsc_0512.jpg"
+- "/uploads/dsc_0734.jpg"
+- "/uploads/dsc_0748.jpg"
 youtube_link: ''
 press: false
 press_pictures: []
