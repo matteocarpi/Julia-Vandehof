@@ -41,9 +41,9 @@ gallery:
 - "/uploads/_dsc0312_1-1.jpg"
 - "/uploads/_dsc0286_1.jpg"
 - "/uploads/_dsc0298_1-1.jpg"
-youtube_link: <iframe width="560"height="315"src="https://www.youtube.com/embed/jcbgHR_LpI8"frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
+youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/Zn_WLq96Cq0"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 press: false
 press_pictures: []
 press_text: ''
