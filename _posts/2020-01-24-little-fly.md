@@ -34,7 +34,13 @@ description: |-
    5/6/21, Barcelona @Perpetracions Festival [http://perpetracions.ccsantmarti.net/ed21/](http://perpetracions.ccsantmarti.net/ed21/ "http://perpetracions.ccsantmarti.net/ed21/")
 
   Follow us on Instagram @kein_komplot
-gallery: []
+gallery:
+- "/uploads/_dsc0351_1-1.jpg"
+- "/uploads/_dsc0297_1.jpg"
+- "/uploads/_dsc0329_1-1.jpg"
+- "/uploads/_dsc0312_1-1.jpg"
+- "/uploads/_dsc0286_1.jpg"
+- "/uploads/_dsc0298_1-1.jpg"
 youtube_link: <iframe width="560"height="315"src="https://www.youtube.com/embed/jcbgHR_LpI8"frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
