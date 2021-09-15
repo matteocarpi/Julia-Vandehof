@@ -35,12 +35,12 @@ description: |-
 
   Follow us on Instagram @kein_komplot
 gallery:
-- "/uploads/_dsc0351_1-1.jpg"
-- "/uploads/_dsc0297_1.jpg"
-- "/uploads/_dsc0329_1-1.jpg"
-- "/uploads/_dsc0312_1-1.jpg"
-- "/uploads/_dsc0286_1.jpg"
-- "/uploads/_dsc0298_1-1.jpg"
+- "/uploads/dsc0286_1.jpg"
+- "/uploads/dsc0298_1.jpg"
+- "/uploads/dsc0297_1.jpg"
+- "/uploads/dsc0351_1.jpg"
+- "/uploads/dsc0312_1.jpg"
+- "/uploads/dsc0329_1.jpg"
 youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/Zn_WLq96Cq0"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
