@@ -50,11 +50,19 @@ description: "**I am from Austria**\n\nWas zeichnet Österreich aus? Was macht e
   exhibitions with theater, live music and poetry, the audience is invited to encounter
   the different designs."
 gallery:
+- "/uploads/img_20210912_160241_719.jpg"
+- "/uploads/img_20210912_160241_756.jpg"
+- "/uploads/img_20210912_160241_780.jpg"
+- "/uploads/img_20210912_160241_773.jpg"
+- "/uploads/img_20210912_160241_786.jpg"
+- "/uploads/img_20210912_160241_800.jpg"
+- "/uploads/img_20210912_160241_792.jpg"
 - "/uploads/einladung_nms_theater.jpg"
 - "/uploads/einladung_workshop_zwentendorf.jpg"
 youtube_link: ''
-press: false
-press_pictures: []
+press: true
+press_pictures:
+- "/uploads/img_20210912_160241_745.jpg"
 press_text: ''
 partners:
 - "/uploads/vfnoe_logo_2021_im_rahmen_des_rot.png"
