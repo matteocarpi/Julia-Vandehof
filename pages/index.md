@@ -22,21 +22,16 @@ bio: |
 
   Julia ist in Österreich geboren und aufgewachsen. In Wien absolviert sie eine Ausbildung zur Schauspielerin und in den Grundlagen des Filmemachens. Sie schließt ihr Studium der Theater-, Film- und Medienwissenschaften mit Schwerpunkt Theaterpädagogik ab. Nachdem sie in diesen Bereichen gearbeitet und ihr erstes eigenes Stück ‚Die Löwen sind den Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre and Performance“ (arthaus / LISPA Berlin und Rose Bruford College London).
 upcoming_performances:
+- title: Heroines
+  date: 2021-12-17 17:30:00 +0000
+  link: https://juliavandehof.com/heroines/
+  venue: Kunstwerkstatt Tulln
+  venue_link: http://www.kunstwerkstatt.at/wp/
 - title: OH Österreich! Performative Ausstellung
-  date: 2021-08-15 18:00:00 +0000
+  date: 2021-08-15T18:00:00.000+00:00
   link: http://www.kunstwerkstatt.at/wp/?p=10692
   venue: Kunstwerkstatt Tulln
   venue_link: http://www.kunstwerkstatt.at/wp/
-- title: Take Care! A rabbit Hole!
-  date: 2021-07-02 21:00:00 +0000
-  link: https://juliavandehof.com/take-care-a-rabbit-hole/
-  venue: Kunstwerkstatt Tulln
-  venue_link: http://www.kunstwerkstatt.at/wp/
-- date: 2021-06-05T17:30:00.000+00:00
-  title: Little Fly_KeinKomplot
-  link: http://perpetracions.ccsantmarti.net/ed21/
-  venue: Barcelona CC SantMarti
-  venue_link: ''
 
 ---
 Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
