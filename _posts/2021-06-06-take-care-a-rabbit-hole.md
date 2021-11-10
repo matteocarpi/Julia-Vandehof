@@ -9,7 +9,7 @@ credits: "mit und von Julia Vandehof und Ainhoa Hevia Uria , Technik: Leroy Wern
   Dank an Angharad Matthews und Michelle Madson\n\n2\\. Juli 2021, Kunstwerkstatt
   Tulln  \n4\\. Juli 2021, Le Studio Moliere Wien (Raw Matters Festival)"
 preview_picture: "/uploads/20210604_154536-1.jpg"
-current: true
+current: false
 only_current: false
 main_pictures:
 - "/uploads/20210604_154536-1.jpg"
