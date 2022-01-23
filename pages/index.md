@@ -38,13 +38,8 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
 - title: Heroines, Theaterperformance
-  date: 2021-12-17 19:30:00 +0000
+  date: 2022-04-08 18:30:00 +0000
   link: https://juliavandehof.com/heroines/
-  venue: Kunstwerkstatt Tulln
-  venue_link: http://www.kunstwerkstatt.at/wp/
-- title: OH Österreich! Performative Ausstellung
-  date: 2021-08-15T18:00:00.000+00:00
-  link: http://www.kunstwerkstatt.at/wp/?p=10692
   venue: Kunstwerkstatt Tulln
   venue_link: http://www.kunstwerkstatt.at/wp/
 
