@@ -3,24 +3,39 @@ layout: home
 title: Home
 permalink: "/"
 avatar: "./uploads/julia-vandehof.jpg"
-bio: |
-  Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Lower Austria and Berlin. Her work uses a strong visual language with non-linear forms of narration. An interdisciplinary approach combines movement, drama, video and stage design as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the poetic body and the practice of embodied movement.
-
-  Currently she is  researching into the tension between the representation and reality of gender roles in (mythological) stories, and a poetic view onto dys/utopian future worlds.
-
-  Julia was born and raised in Austria. In Vienna she trained as an actress and in the basics of filmmaking. She graduated in Theatre, Film and Media Studies with a focus on Theatre Pedagogy. After working in these areas and creating her first own performance ‚Die Löwen sind den Schmetterlingen nicht lästig`, she then went on to taking her Masters degree in ‚Devised Theatre and Performance’ at arthaus/LISPA Berlin in collaboration with Rose Bruford College London.
-
-
-
-  ______________________________________________________________________________
-
-
-
-  Julia Vandehof ist Theatermacherin, Schauspielerin und physische Performerin. Sie lebt und arbeitet in Niederösterreich und Berlin. Ihre Arbeit kennzeichnet eine starke visuelle Sprache mit nichtlinearen Erzählformen. Dabei kombiniert sie Bewegung, Drama, Video und Bühnenbild als komplementäre, miteinander verbundene Disziplinen. Ihr Fokus liegt auf kollaborativen Stückentwicklungen, der Erforschung des poetischen Körpers und der Praxis von Embodied Movement.
-
-  Aktuelle kreative Forschungsfelder sind das Spannungsfeld zwischen der Repräsentation und der Realität von Geschlechterrollen in (mythologischen) Geschichte, und ein poetischer Blick auf dys/utopische Zukunfts-Welten.
-
-  Julia ist in Österreich geboren und aufgewachsen. In Wien absolviert sie eine Ausbildung zur Schauspielerin und in den Grundlagen des Filmemachens. Sie schließt ihr Studium der Theater-, Film- und Medienwissenschaften mit Schwerpunkt Theaterpädagogik ab. Nachdem sie in diesen Bereichen gearbeitet und ihr erstes eigenes Stück ‚Die Löwen sind den Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre and Performance“ (arthaus / LISPA Berlin und Rose Bruford College London).
+bio: "Julia Vandehof is a theater and performance maker, actress and physical performer.
+  \ She lives and works in Lower Austria and Berlin. Her work uses a strong visual
+  language with non-linear narrative forms. She often combines movement, drama, video
+  and stage design as complementary, interconnected disciplines. Her focus is on collaborative
+  play development, exploration of the poetic body, and embodied movement practice.\nCurrent
+  creative research areas include the tension between the representation and reality
+  of gender roles in (mythological) stories, and a poetic view of dys/utopian future
+  worlds.\n\nJulia was born and raised in Austria. In Vienna, she graduated in theater,
+  film and media studies with a focus on theater pedagogy and gender studies, as well
+  as her foundation training in acting and film. After developing her first own play
+  'Die Löwen sind den Schmetterlingen nicht lästig' (The lions are not annoying to
+  the butterflies), she decides to give full attention to her artistic practice and
+  then went on to take her Masters in Devised Theatre and Performance (LISPA - now:
+  arthaus Berlin and Rose Bruford College London). \n\nSince then she accompanies
+  participatory art projects and workshops, works as actress and puppeteer and develops
+  and performs in her own work.\n\n\n\n______________________________________________________________________________\n\n\nJulia
+  Vandehof ist Theater- und Performancemacherin, Schauspielerin und physische Performerin.
+  \ Sie lebt und arbeitet in Niederösterreich und Berlin. Ihre Arbeit als Theatermacherin
+  kennzeichnet eine visuelle Sprache mit nichtlinearen Erzählformen. Dabei kombiniert
+  sie oft Bewegung, Drama, Video und Bühnenbild als komplementäre, miteinander verbundene
+  Disziplinen. Ihr Fokus liegt auf kollaborativen Stückentwicklungen, der Erforschung
+  des poetischen Körpers und der Praxis von Embodied Movement.\n\nAktuelle kreative
+  Forschungsfelder sind das Spannungsfeld zwischen der Repräsentation und der Realität
+  von Geschlechterrollen in (mythologischen) Geschichten, und ein poetischer Blick
+  auf dys/utopische Zukunfts-Welten.\n\nJulia ist in Österreich geboren und aufgewachsen.
+  In Wien schließt sie ihr Studium der Theater-, Film- und Medienwissenschaften mit
+  Schwerpunkt Theaterpädagogik und Gender Studies ab, sowie ihre Grundlagenausbildung
+  in Schauspiel und Film. Nachdem sie ihr erstes eigenes Stück ‚Die Löwen sind den
+  Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen
+  Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre
+  and Performance“ (LISPA - jetzt: arthaus Berlin und Rose Bruford College London).
+  \nSeit dem begleitet sie partizipative Kunstprojekte und Workshops, ist als Schau-
+  und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
 - title: Heroines, Theaterperformance
   date: 2021-12-17 19:30:00 +0000
