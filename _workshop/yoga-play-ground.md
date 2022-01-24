@@ -22,6 +22,14 @@ description: |-
   Ghwyne und Julia öffnen einen Raum, in dem Yoga und Physisches Theater aufeinandertreffen und sich gegenseitig ergänzen und mit viel Leichtigkeit und Tiefe beflügeln.
 
   Workshops für Kinder und Erwachsene
+
+  ***
+
+  Funky yoga workshops with lots of movement(s-freedom), playful exploration and good breathing.  The creative cells are made to fly while keeping the feet well rooted to the ground.
+
+  Ghwyne and Julia open a space where yoga and physical theater meet and complement each other, inspiring lightness and depth.
+
+  Workshops for children and adults
 gallery: []
 youtube_link: ''
 press: false
