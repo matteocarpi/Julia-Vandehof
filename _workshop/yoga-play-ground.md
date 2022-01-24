@@ -14,7 +14,8 @@ credits: |-
 preview_picture: ''
 current: false
 only_current: false
-main_pictures: []
+main_pictures:
+- "/uploads/yoga-theater.jpg"
 description: "Funky Yoga Workshops mit viel Bewegung(s-freiheit), spielerischem Erforschen
   und gutem Durchatmen.  Die kreativen Zellen werden zum Fliegen gebracht und  die
   Füße dabei gut am Boden verwurzelt. \n\nGhwyne und Julia öffnen einen Raum, in dem
