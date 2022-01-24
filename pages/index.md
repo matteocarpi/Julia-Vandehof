@@ -7,7 +7,7 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   \ She lives and works in Lower Austria and Berlin. Her work uses a strong visual
   language with non-linear narrative forms. She often combines movement, drama, video
   and stage design as complementary, interconnected disciplines. Her focus is on collaborative
-  play development, exploration of the poetic body, and embodied movement practice.\nCurrent
+  devising, exploration of the poetic body, and embodied movement practice.\n\nCurrent
   creative research areas include the tension between the representation and reality
   of gender roles in (mythological) stories, and a poetic view of dys/utopian future
   worlds.\n\nJulia was born and raised in Austria. In Vienna, she graduated in theater,
@@ -16,7 +16,8 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   'Die Löwen sind den Schmetterlingen nicht lästig' (The lions are not annoying to
   the butterflies), she decides to give full attention to her artistic practice and
   then went on to take her Masters in Devised Theatre and Performance (LISPA - now:
-  arthaus Berlin and Rose Bruford College London). \n\nSince then she accompanies
+  arthaus Berlin and Rose Bruford College London), a training with a movement based
+  pedagogy rooted in the teachings of Jacques Lecoq.\n\nSince then she accompanies
   participatory art projects and workshops, works as actress and puppeteer and develops
   and performs in her own work.\n\n\n\n______________________________________________________________________________\n\n\nJulia
   Vandehof ist Theater- und Performancemacherin, Schauspielerin und physische Performerin.
@@ -33,9 +34,10 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   in Schauspiel und Film. Nachdem sie ihr erstes eigenes Stück ‚Die Löwen sind den
   Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen
   Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre
-  and Performance“ (LISPA - jetzt: arthaus Berlin und Rose Bruford College London).
-  \nSeit dem begleitet sie partizipative Kunstprojekte und Workshops, ist als Schau-
-  und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
+  and Performance“ (LISPA - jetzt: arthaus Berlin und Rose Bruford College London),
+  eine Ausbildung mit bewegungsorientierter Pädagogik, die auf den Lehren von Jacques
+  Lecoq beruht. \n\nSeit dem begleitet sie partizipative Kunstprojekte und Workshops,
+  ist als Schau- und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
 - title: Heroines, Theaterperformance
   date: 2022-04-08 18:30:00 +0000
