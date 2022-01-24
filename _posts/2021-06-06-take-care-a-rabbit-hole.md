@@ -4,7 +4,7 @@ permalink: "/:title/"
 categories: project
 date: 2021-06-06T22:00:00.000+00:00
 title: Take Care! A rabbit hole!
-sub_title: Performance - Sharing der künstlerischen Recherche
+sub_title: 'Performance '
 credits: "mit und von Julia Vandehof und Ainhoa Hevia Uria , Technik: Leroy Werner,
   Dank an Angharad Matthews und Michelle Madson\n\n2\\. Juli 2021, Kunstwerkstatt
   Tulln  \n4\\. Juli 2021, Le Studio Moliere Wien (Raw Matters Festival)"
