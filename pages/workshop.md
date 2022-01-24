@@ -1,5 +1,6 @@
 ---
-layout: workshop
-title: Workshop
-permalink: workshop
+layout: workshops
+title: Workshops
+permalink: workshops
+
 ---
