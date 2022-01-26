@@ -63,7 +63,9 @@ gallery:
 - "/uploads/dsc_0410.jpg"
 - "/uploads/dsc_0512.jpg"
 - "/uploads/dsc_0734.jpg"
-youtube_link: <iframe width="560" height="315" src="https://youtu.be/iLbzZTvFVjI
+youtube_link: <iframe width="560" height="315" src="https://youtu.be/iLbzZTvFVjI"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 press: false
 press_pictures: []
 press_text: ''
