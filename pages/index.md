@@ -40,7 +40,7 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   ist als Schau- und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
 - title: Yogainsel meets Theatre for KIDS
-  date: 2022-02-24 23:00:00 +0000
+  date: 2022-02-25 16:30:00 +0000
   link: https://juliavandehof.com/yoga-play-ground/
   venue: Tulln
   venue_link: ''
