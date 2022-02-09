@@ -5,12 +5,15 @@ categories: workshop
 date: 2022-01-22 23:00:00 +0000
 title: Yoga Play Ground
 sub_title: 'Yoga meets Physical Theatre & Embodied Research '
-credits: |-
-  upcoming dates
-
-  25\.2.22 Kinder-Yoga-Insel live im Studio 16.30-17.30 Uhr
-
-  IG: @ghwyne_yoga &  @yogainsel_
+credits: "upcoming dates\n\n25\\.2.22 Kinder-Yoga-Insel live im Studio 16.30-17.30
+  Uhr\n\nBunt krabbelt dort, beflügelt tönt es, kopfüber fliegt, sanft rollt hier...\n\nEin
+  wild fantastisches Tier. Gemeinsam entdecken wir die Welt der fantastischen Tier-Wesen
+  und ehe du dich versiehst verwandelst du selbst in eines.\n\n  \nDer nächste Kinderyogainsel
+  Termin ist am Freitag **25. Februar 22 um 16.30 Uhr.**\n\nYoga trifft auf Physisches
+  Theater  und wir verbinden  die **Welt des darstellenden Spiels**  mit den **Techniken
+  des Kinderyoga**.\n\nWir freuen uns auf eine gemeinsame Stunde.\n\nBitte bring Tücher,
+  Haargummis, große und kleine Pölster und bequeme Kleidung\n\nIG: @ghwyne_yoga &
+  \ @yogainsel_"
 preview_picture: "/uploads/yoga-theater.jpg"
 current: false
 only_current: false
