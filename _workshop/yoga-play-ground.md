@@ -8,7 +8,7 @@ sub_title: 'Yoga meets Physical Theatre & Embodied Research '
 credits: |-
   upcoming dates
 
-  4\.2.22 Kinder-Yoga-Insel Online via Zoom 16.30-17.30 Uhr
+  25\.2.22 Kinder-Yoga-Insel live im Studio 16.30-17.30 Uhr
 
   IG: @ghwyne_yoga &  @yogainsel_
 preview_picture: "/uploads/yoga-theater.jpg"
