@@ -39,11 +39,6 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   Lecoq beruht. \n\nSeit dem begleitet sie partizipative Kunstprojekte und Workshops,
   ist als Schau- und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
-- title: Yogainsel meets Theatre for KIDS
-  date: 2022-02-25 16:30:00 +0000
-  link: https://juliavandehof.com/yoga-play-ground/
-  venue: Tulln
-  venue_link: ''
 - title: Heroines, Theaterperformance
   date: 2022-04-08 18:30:00 +0000
   link: https://juliavandehof.com/heroines/
