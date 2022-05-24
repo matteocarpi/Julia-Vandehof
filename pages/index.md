@@ -42,7 +42,7 @@ upcoming_performances:
 - title: 'Bar Whatever :  Take Care! A rabbit hole!'
   date: 2022-05-25 15:00:00 +0000
   link: https://www.performingarts-festival.de/de/programm/bar-whatever
-  venue: Spinner und Weber Wedding
+  venue: 'Spinner und Weber Wedding '
   venue_link: https://www.performingarts-festival.de/de/service/spielorte/spinner-und-weber-kulturhaus-galerie
 - title: ''
   date: 
