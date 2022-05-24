@@ -39,11 +39,16 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   Lecoq beruht. \n\nSeit dem begleitet sie partizipative Kunstprojekte und Workshops,
   ist als Schau- und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
-- title: Heroines, Theaterperformance
-  date: 2022-04-08 18:30:00 +0000
-  link: https://juliavandehof.com/heroines/
-  venue: Kunstwerkstatt Tulln
-  venue_link: http://www.kunstwerkstatt.at/wp/
+- title: 'Bar Whatever :  Take Care! A rabbit hole!'
+  date: 2022-05-25 15:00:00 +0000
+  link: https://www.performingarts-festival.de/de/programm/bar-whatever
+  venue: Spinner und Weber Wedding
+  venue_link: https://www.performingarts-festival.de/de/service/spielorte/spinner-und-weber-kulturhaus-galerie
+- title: ''
+  date: 
+  link: ''
+  venue: ''
+  venue_link: ''
 
 ---
 Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
