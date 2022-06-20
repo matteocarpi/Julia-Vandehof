@@ -49,11 +49,11 @@ upcoming_performances:
   link: https://www.performingarts-festival.de/de/programm/bar-whatever
   venue: 'Spinner und Weber Wedding '
   venue_link: https://www.performingarts-festival.de/de/service/spielorte/spinner-und-weber-kulturhaus-galerie
-- title: ''
-  date: 
-  link: ''
-  venue: ''
-  venue_link: ''
+- title: WHERE WE ARE RIGHT NOW - SUMMER SCHOOL 2022
+  date: 2022-07-18 07:00:00 +0000
+  link: https://www.westdenhaag.nl/exhibitions/22_07_Summer_School_2022
+  venue: West Den Haag  Museumkwartier
+  venue_link: https://www.westdenhaag.nl/info
 
 ---
 Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
