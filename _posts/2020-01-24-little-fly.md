@@ -12,7 +12,7 @@ credits: 'devised by  Kein Komplot   (Ainhoa Hevia Uria, Gina Battle i Oliva, Ma
   THEATER AND PERFORMANCE (Rose Bruford Collge London / arthaus Berlin). Little Fly
   is their first project. '
 preview_picture: "/uploads/littleflyweb.jpg"
-current: false
+current: true
 only_current: false
 main_pictures:
 - "/uploads/littleflyweb.jpg"
@@ -28,10 +28,6 @@ description: |-
   But, what is power? What forms does it take? Are we born with the need to have it or is it imposed over the years? What are our repressed freedoms? And what is the line that separates the power from oppression?
 
   The performance is a theatrical movement-piece with a non-linear dramaturgy. The creation is based on the use of four elements: the boxing ring, the animalisation of chicken, ropes that create disconnected connections, and the constant buzz of flies.
-
-  the Journey: a first work-in-progress - version that was shared with an audience in India as part of the Whilst Walking Touring Theater Festival 2019.  In February and March 2020 they received two working opportunities: in Berlin and Faber Residency Girona. Covid-19.
-
-   5/6/21, Barcelona @Perpetracions Festival [http://perpetracions.ccsantmarti.net/ed21/](http://perpetracions.ccsantmarti.net/ed21/ "http://perpetracions.ccsantmarti.net/ed21/")
 
   Follow us on Instagram @kein_komplot
 gallery:
