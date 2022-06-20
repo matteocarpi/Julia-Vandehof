@@ -39,6 +39,11 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   Lecoq beruht. \n\nSeit dem begleitet sie partizipative Kunstprojekte und Workshops,
   ist als Schau- und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
 upcoming_performances:
+- title: Little Fly
+  date: 2022-07-05 22:00:00 +0000
+  link: https://juliavandehof.com/little-fly/
+  venue: Barcelona - Stripart Festival
+  venue_link: https://stripart.cat/festival/?p=8060&preview=true
 - title: 'Bar Whatever :  Take Care! A rabbit hole!'
   date: 2022-05-25 15:00:00 +0000
   link: https://www.performingarts-festival.de/de/programm/bar-whatever
