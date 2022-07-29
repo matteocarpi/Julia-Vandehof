@@ -14,7 +14,7 @@ credits: |-
 
   TERMINE: Freitags 18 – 21 Uhr
 
-  ERDE: 2.9.22 ,METALL: 7.10. 22,  WASSER: 16.12.22,  HOLZ: 14.4.22 ,  FEUER: 23.6.22
+  ERDE: 2.9.22 , METALL: 7.10. 22,  WASSER: 16.12.22,  HOLZ: 14.4.22 ,  FEUER: 23.6.22
 
   Wir kombinieren Methoden aus Yoga und Physischem Theater: Hatha Yoga mit Schwerpunkt Meridianen zu den Elementen, Sound Healing, Entspannungstechniken, Ritualarbeit, Tanz- und Bewegungsimprovisation, Figurenarbeit durch körperliches Spiel, individuelles und gemeinschaftliches performatives Kreieren, Assoziative Schreibpraxis
 
@@ -24,7 +24,7 @@ credits: |-
 
   DATES: Fridays 6 - 9 p.m.
 
-  EARTH: 9/22/22 ,METAL: 10/7/22, WATER: 12/16/22, WOOD: 4/14/22 , FIRE: 6/23/22.
+  EARTH: 9/22/22 , METAL: 10/7/22, WATER: 12/16/22, WOOD: 4/14/22 , FIRE: 6/23/22.
 
   We combine methods from yoga and physical theater: hatha yoga with a focus on meridians to the elements, sound healing, relaxation techniques, ritual work, dance and movement improvisation, figure work through physical play, individual and collaborative performative creating, associative writing practice.
 preview_picture: "/uploads/yoga-theater.jpg"
