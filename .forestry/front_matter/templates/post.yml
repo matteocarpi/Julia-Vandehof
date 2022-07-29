@@ -93,3 +93,5 @@ fields:
   type: image_gallery
   config: {}
   label: Partners
+pages:
+- _posts/freunde.md
