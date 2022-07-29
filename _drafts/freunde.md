@@ -7,7 +7,7 @@ title: FREUNDE
 sub_title: ''
 credits: "TUSCH Berlin Festival 2022\n\nTheater O.N. & Grundschule am Rüdesheimer
   Platz \n\nLeitung: Gwendolyn Noltes, Julia Vandehof, Steffi Benning"
-preview_picture: ''
+preview_picture: "/uploads/20220330_104811.jpg"
 current: false
 only_current: false
 main_pictures: []
