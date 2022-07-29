@@ -23,5 +23,6 @@ press: false
 press_pictures: []
 press_text: ''
 partners: []
+published: false
 
 ---
