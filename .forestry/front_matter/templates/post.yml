@@ -94,4 +94,5 @@ fields:
   config: {}
   label: Partners
 pages:
+- _posts/f.a.m.e.md
 - _posts/freunde.md
