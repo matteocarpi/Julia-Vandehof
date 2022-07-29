@@ -12,14 +12,14 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   of gender roles in (mythological) stories, and a poetic view of dys/utopian future
   worlds.\n\nJulia was born and raised in Austria. In Vienna, she graduated in theater,
   film and media studies with a focus on theater pedagogy and gender studies, as well
-  as her foundation training in acting and film. After developing her first own play
-  'Die Löwen sind den Schmetterlingen nicht lästig' (The lions are not annoying to
-  the butterflies), she decides to give full attention to her artistic practice and
-  then went on to take her Masters in Devised Theatre and Performance (LISPA - now:
-  arthaus Berlin and Rose Bruford College London), a training with a movement based
-  pedagogy rooted in the teachings of Jacques Lecoq.\n\nSince then she accompanies
-  participatory art projects and workshops, works as actress and puppeteer and develops
-  and performs in her own work.\n\n\n\n______________________________________________________________________________\n\n\nJulia
+  as her foundation training in acting and film. After developing her first devised
+  performance 'Die Löwen sind den Schmetterlingen nicht lästig' (The lions are not
+  annoying to the butterflies), she decides to give full attention to her artistic
+  practice and then went on to take her Masters in Devised Theatre and Performance
+  (LISPA - now: arthaus Berlin and Rose Bruford College London), a training with a
+  movement based pedagogy rooted in the teachings of Jacques Lecoq.\n\nSince then
+  her artistic work moves between creating her own performances, working in participatory
+  theater projects and working as a performer.\n\n\n\n______________________________________________________________________________\n\n\nJulia
   Vandehof ist Theater- und Performancemacherin, Schauspielerin und physische Performerin.
   \ Sie lebt und arbeitet in Niederösterreich und Berlin. Ihre Arbeit als Theatermacherin
   kennzeichnet eine visuelle Sprache mit nichtlinearen Erzählformen. Dabei kombiniert
@@ -36,8 +36,9 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre
   and Performance“ (LISPA - jetzt: arthaus Berlin und Rose Bruford College London),
   eine Ausbildung mit bewegungsorientierter Pädagogik, die auf den Lehren von Jacques
-  Lecoq beruht. \n\nSeit dem begleitet sie partizipative Kunstprojekte und Workshops,
-  ist als Schau- und Puppenspielerin tätig und entwickelt und spielt in eigenen Performances.\n\n"
+  Lecoq beruht. \n\nSeit dem bewegt sich ihre künstlerische Arbeit zwischen der Kreation
+  eigener Performances, der Arbeit in partizipatorischen Theaterprojekten und als
+  Performerin.\n\n"
 upcoming_performances:
 - title: Little Fly
   date: 2022-07-05 22:00:00 +0000
