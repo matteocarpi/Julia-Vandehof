@@ -11,10 +11,12 @@ preview_picture: ''
 current: false
 only_current: false
 main_pictures: []
-description: Die Kinder präsentieren in einer Foto- und Kostüminstallation ihre eigenen
-  Fantasiefiguren in Anlehnung an die in Mies van Houts „Freunde“ gezeichneten Wesen.
-  Die Besucher*innen sind eingeladen, selbst ein Kostüm zu basteln. Anschließend können
-  sie damit ihre ungewöhnlichen Formen der Fortbewegung auf einer Mini-Bühne zeigen.
+description: |-
+  Die Kinder präsentieren in einer Foto- und Kostüminstallation ihre eigenen Fantasiefiguren in Anlehnung an die in Mies van Houts „Freunde“ gezeichneten Wesen. Die Besucher*innen sind eingeladen, selbst ein Kostüm zu basteln. Anschließend können sie damit ihre ungewöhnlichen Formen der Fortbewegung auf einer Mini-Bühne zeigen.
+
+  ***
+
+  In a photo and costume installation, the children present their own fantasy figures based on the creatures drawn in Mies van Hout's "Friends". Visitors are invited to make their own costumes. Afterwards, they can use it to show their unusual forms of locomotion on a mini-stage.
 gallery: []
 youtube_link: ''
 press: false
