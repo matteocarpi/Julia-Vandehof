@@ -3,27 +3,52 @@ layout: post
 permalink: "/:title/"
 categories: workshop
 date: 2022-01-23 23:00:00 +0000
-title: Geschichten aus dem Blumentopf-(copy)
-sub_title: Theater@home Workshop für Kinder und Jugendliche
-credits: "via Zoom / 5 Termine \n\nneue Termine: tba"
+title: Theaterworkshops
+sub_title: für Kinder und Jugendliche
+credits: |-
+  **Theaterworkshops für Kinder und Jugendliche**
+
+  TERMINE: Samstags 10 – 13 Uhr, A-3430 Tulln
+
+  Anmeldung: lucid_dreams@gmx.at
 preview_picture: "/uploads/book-4032668_1920-2.jpg"
 current: false
 only_current: false
 main_pictures: []
 description: |-
-  **Mit viel Spaß und Bewegung wird dein Wohnzimmer zur Spieloase, ein Schreibtisch zur Bühne und eine Topfpflanze geht auf eine spannende Abenteuerreise. Entdecke die Geschichten in der Schublade und die geheimen Welten unter dem Sofa.**
+  **Auf die Bühne, fertig, los!  (10.9.22)**
 
-  In diesem Theaterworkshop schlüpfst du in unterschiedliche Figuren und erfindest gemeinsam mit den anderen kleine Geschichten. Du experimentierst mit Objekten, Kostümen und Zeichnungen und erfindest gemeinsam mit den anderen kleine Geschichten und Theaterszenen.
+  Ein Nachmittag um Theaterluft zu schnuppern. Du kannst verschiedene Figurenrollen ausprobieren und gemeinsam erfinden wir kleine Geschichten, die im szenischen Spiel auf der Bühne lebendig werden.
 
-  Ihr braucht: bequeme Kleidung - einen Raum, in dem ihr euch bewegen könnt und der euer „Spiel-Platz“ sein kann - Papier und Zeichenstifte - Online-Plattform Zoom - Internetverbindung - Laptop/PC - Webcam oder integrierte Kamera - Mikrofon oder integriertes Mikrofon - Lautsprecher.
+  **Superheld*innen (8.10.22)**
+
+  In diesem Theaterlabor erforschen und erfinden wir gemeinsam die heldenhaften Abenteuer deines*r ganz persönlichen Superheld*in. Du wirst deine eigene Superkraft entdecken, gestaltest dir deine eigene Maske und schon kann die Welt gerettet werden.
+
+  **Heute bin ich...(17.12.22)**
+
+  Ein Theaterworkshop rund um die bunte Gefühlswelt in uns. In Anlehnung an Mies van Houts Buch wirst du dein eigenes Fantasie-Wasser-Wesen erschaffen und gemeinsam tauchen wir ab in den Ozean der Gefühle um dort auf eine Abenteuer-reise zu gehen.
+
+  **Der Elefant in meinem Bauch (15.4.22)**
+
+  In diesem Bewegungstheater-Workshop wird es tierisch-komisch zugehen. Wir probieren die Körperlichkeit und bestimmte Charaktereigenschaften aus, die so manchen Tieren nachgesagt werden um damit Figuren zu entwickeln und kleine Sketches zu erfinden.
 
   ***
 
-  With lots of fun and movement, your living room becomes a play oasis, a desk becomes a stage, and a potted plant goes on an exciting adventure. Discover the stories in the drawer and the secret worlds under the sofa.
+  **On stage, ready, go!  (10.9.22)**
 
-  In this theater workshop you slip into different characters and invent little stories together with the others. You will experiment with objects, costumes and drawings and invent little stories and theater scenes together with the others.
+  An afternoon to get a taste of theater. You can try out different character roles and together we will invent little stories that will come to life on stage in scenic play.
 
-  You will need: comfortable clothes - a room where you can move around and which can be your "play space" - paper and drawing pens - online platform Zoom - internet connection - laptop/PC - webcam or integrated camera - microphone or integrated microphone - loudspeakers.
+  **Superheroes (8.10.22)**
+
+  In this theater lab we will explore and invent the heroic adventures of your very own superhero. You'll discover your own superpower, design your own mask, and the world can be saved.
+
+  **Today I am... (17.12.22)**
+
+  A theater workshop about the colorful world of emotions within us. In the style of Mies van Houts book you will create your own fantasy water creature and together we will dive into the ocean of emotions to go on an adventure journey.
+
+  **The elephant in my belly (15.4.22)**
+
+  In this movement theater workshop it will be animal-comic. We will try out the physicality and certain character traits that some animals are said to have in order to develop characters and invent little sketches.
 gallery: []
 youtube_link: ''
 press: false
