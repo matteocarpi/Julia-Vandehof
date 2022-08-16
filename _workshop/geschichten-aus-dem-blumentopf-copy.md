@@ -12,7 +12,7 @@ credits: |-
 
   Anmeldung: lucid_dreams@gmx.at
 preview_picture: "/uploads/book-4032668_1920-2.jpg"
-current: false
+current: true
 only_current: false
 main_pictures: []
 description: |-
