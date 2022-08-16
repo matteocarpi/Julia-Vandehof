@@ -28,7 +28,7 @@ credits: |-
 
   We combine methods from yoga and physical theater: hatha yoga with a focus on meridians to the elements, sound healing, relaxation techniques, ritual work, dance and movement improvisation, figure work through physical play, individual and collaborative performative creating, associative writing practice.
 preview_picture: "/uploads/yoga-theater.jpg"
-current: false
+current: true
 only_current: false
 main_pictures:
 - "/uploads/yoga-theater.jpg"
