@@ -40,6 +40,11 @@ bio: "Julia Vandehof is a theater and performance maker, actress and physical pe
   eigener Performances, der Arbeit in partizipatorischen Theaterprojekten und als
   Performerin.\n\n"
 upcoming_performances:
+- title: Fame
+  date: 2022-08-25 19:00:00 +0000
+  link: https://juliavandehof.com/f.a.m.e/
+  venue: La Casa Groga, Barcelona
+  venue_link: https://www.facebook.com/CasaGrogaFP/
 - title: Little Fly
   date: 2022-07-05 22:00:00 +0000
   link: https://juliavandehof.com/little-fly/
