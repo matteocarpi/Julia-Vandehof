@@ -10,7 +10,7 @@ credits: |-
 
   [https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/ "https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/")
 preview_picture: "/uploads/p075-vfno-flyer-online.jpg"
-current: true
+current: false
 only_current: false
 main_pictures:
 - "/uploads/img-20210531-wa0004.jpg"
