@@ -44,9 +44,9 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Build TinaCMS
         env:
-          TINA_CMS_CLIENT_ID: ${{ env.TINA_CMS_CLIENT_ID }}
-          TINA_CMS_TOKEN: ${{ env.TINA_CMS_TOKEN }}
-          TEST: 'THIS IS A TEST'
+          TINA_CMS_CLIENT_ID: ${{ vars.TINA_CMS_CLIENT_ID }}
+          TINA_CMS_TOKEN: ${{ vars.TINA_CMS_TOKEN }}
+          TEST: "THIS IS A TEST"
         run: yarn && yarn build
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
