@@ -1,4 +1,5 @@
 {
+  "node": ">=14.0.0",
   "dependencies": {
     "@tinacms/cli": "^1.5.14",
     "netlify-cli": "^2.48.0",
