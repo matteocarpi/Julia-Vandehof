@@ -8,7 +8,10 @@ import { projectsFields } from "./templates";
 import { workshop_singleFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch =
+  process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
+
+console.log(process.env);
 
 export default defineConfig({
   branch,
